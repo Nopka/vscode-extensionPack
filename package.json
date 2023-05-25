@@ -1,0 +1,35 @@
+{
+  "name": "basic-setup",
+  "displayName": "basic-setup",
+  "description": "a basic setup for my vscode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "hnw.vscode-auto-open-markdown-preview",
+    "kamikillerto.vscode-colorize",
+    "in4margaret.compareit",
+    "hediet.vscode-drawio",
+    "usernamehw.errorlens",
+    "eamodio.gitlens",
+    "wix.vscode-import-cost",
+    "oderwat.indent-rainbow",
+    "shd101wyy.markdown-preview-enhanced",
+    "ibm.output-colorizer",
+    "johnpapa.vscode-peacock",
+    "marnix.peacock",
+    "esbenp.prettier-vscode",
+    "wayou.vscode-todo-highlight",
+    "gruntfuggly.todo-tree",
+    "chakrounanas.turbo-console-log",
+    "vscode-icons-team.vscode-icons",
+    "tomoki1207.pdf",
+    "rangav.vscode-thunder-client"
+  ]
+}
